@@ -19,7 +19,7 @@ Design the complete flow from:
  🛠 Tools Used
 - Figma
 - 🧩📢 You can view my project Here
-- https://www.figma.com/proto/Pv3LFswr9QU865HCV1j7cm/Untitled?node-id=5-83&starting-point-node-id=3%3A6&t=nDujRMEFkMykts4W-1
+- https://www.figma.com/proto/Pv3LFswr9QU865HCV1j7cm/Untitled?node-id=3-6&starting-point-node-id=3%3A6&t=fKqZV5Fpq0SGCtoE-1
 - 
 📌 Status
 ✅ Completed  
